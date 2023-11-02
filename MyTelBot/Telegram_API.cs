@@ -17,7 +17,7 @@ namespace MyTelBot
         public enum TypeMessage : byte
         {
             photo, voice,
-            document, sticker, audio
+            document, sticker
         }
 
         public class FileUploadInfo
